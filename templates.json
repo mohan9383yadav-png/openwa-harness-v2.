@@ -1,0 +1,5 @@
+{
+  "welcome": "Hi {{name}}, this is Atulya Yatra 👋. Thanks for reaching out earlier — we wanted to check in and see if you're still planning your trip. Reply and let us know how we can help!",
+  "offer": "Hello {{name}}! We've put together a special {{package}} package just for past guests like you. Interested in the details?",
+  "checkin": "Hi {{name}}, just checking in — is there anything we can help you plan for your next trip?"
+}
